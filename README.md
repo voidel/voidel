@@ -1,4 +1,4 @@
-### Hi there 👋
+![30hz in a nutshell](https://i.imgur.com/JMGU1dW.jpeg)
 
 <!--
 **voidel/voidel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
